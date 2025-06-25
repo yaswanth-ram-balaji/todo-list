@@ -46,9 +46,8 @@ Then just open `index.html` in your browser.
 
 
 
-## 🗂️ Project Folder Layout
+## 🗂️Project Structure
 
-✨ Here's how your project is organized:
 
 📁 `todo-list/`  
 ├── 📂 `images/` — Beautiful background images & UI assets  
