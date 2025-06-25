@@ -46,17 +46,17 @@ Then just open `index.html` in your browser.
 
 
 
-## 🗂️ Project Structure
+## 🗂️ Project Folder Layout
 
-```
-todo-list/
-├── index.html         # Main HTML file
-├── styles.css         # CSS styles and animations
-├── script.js          # JavaScript task logic
-├── LICENSE            # MIT License
-├── README.md          # Project README
-└── images/            # Backgrounds and UI assets
-```
+✨ Here's how your project is organized:
+
+📁 `todo-list/`  
+├── 📂 `images/` — Beautiful background images & UI assets  
+├── 📄 `index.html` — Main HTML structure for the app  
+├── 🎨 `styles.css` — Custom glassmorphism styling  
+├── ⚙️ `script.js` — Task logic (add, mark, delete)  
+├── 📜 `LICENSE` — MIT open-source license  
+└── 📝 `README.md` — Everything you need to know about the project
 
 
 ## 🌈 Screenshot
@@ -65,14 +65,6 @@ todo-list/
   <img src="./images/preview page2.png" alt="UI Design" width="600">
 </p>
 
-
-
-## 🔮 Future Improvements
-
-* 🌓 Dark/Light theme switch
-* 🕒 Task due time alerts
-* 🔍 Filter tasks (All / Completed / Pending)
-* 📦 PWA: Make it installable
 
 
 
