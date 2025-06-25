@@ -48,7 +48,7 @@ Then just open `index.html` in your browser.
 
 ## 🗂️ Project Structure
 
-
+```
 todo-list/
 ├── index.html         # Main HTML file
 ├── styles.css         # CSS styles and animations
@@ -56,7 +56,7 @@ todo-list/
 ├── LICENSE            # MIT License
 ├── README.md          # Project README
 └── images/            # Backgrounds and UI assets
-
+```
 
 
 ## 🌈 Screenshot
