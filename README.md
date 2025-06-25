@@ -39,7 +39,6 @@
 
 To run this project locally:
 
-```bash
 git clone https://github.com/yaswanth-ram-balaji/todo-list.git
 cd todo-list
 
