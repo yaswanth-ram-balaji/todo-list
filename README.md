@@ -1,10 +1,3 @@
-Absolutely! Here's your complete and professional `README.md` file customized for your beautiful **To-Do App** project with the glassmorphism UI:
-
----
-
-### ✅ Copy this into your `README.md` file:
-
-````markdown
 <h1 align="center">🌟 TO-DO APP 🌟</h1>
 
 <p align="center">
@@ -12,16 +5,13 @@ Absolutely! Here's your complete and professional `README.md` file customized fo
 </p>
 
 <p align="center">
-  <img src="./images/img.webp" alt="To-Do App Preview" width="600">
+  <img src="./images/preview page1.png" alt="To-Do App Preview" width="600">
 </p>
-
----
 
 ## 🚀 Live Demo
 
 🔗 [View Live on GitHub Pages](https://yaswanth-ram-balaji.github.io/todo-list)
 
----
 
 ## ✨ Features
 
@@ -32,7 +22,6 @@ Absolutely! Here's your complete and professional `README.md` file customized fo
 - 🔄 Real-time UI updates
 - 🎯 Minimal, clean, and modern design
 
----
 
 ## 🛠️ Tech Stack
 
@@ -40,24 +29,18 @@ Absolutely! Here's your complete and professional `README.md` file customized fo
 - **CSS3**
 - **Vanilla JavaScript**
 
----
 
 ## 🧾 Installation & Usage
 
 To run this project locally:
 
-```bash
 git clone https://github.com/yaswanth-ram-balaji/todo-list.git
 cd todo-list
-````
 
 Then just open `index.html` in your browser.
 
----
-
 ## 🗂️ Project Structure
 
-```
 todo-list/
 ├── index.html         # Main HTML file
 ├── styles.css         # CSS styles and animations
@@ -65,17 +48,17 @@ todo-list/
 ├── LICENSE            # MIT License
 ├── README.md          # Project README
 └── images/            # Backgrounds and UI assets
-```
 
----
+
+
 
 ## 🌈 Screenshot
 
 <p align="center">
-  <img src="./images/background3.jpg" alt="UI Design" width="600">
+  <img src="./images/preview page2.png" alt="UI Design" width="600">
 </p>
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -84,13 +67,12 @@ todo-list/
 * 🔍 Filter tasks (All / Completed / Pending)
 * 📦 PWA: Make it installable
 
----
+
 
 ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).
 
----
 
 ## 🙌 Author
 
@@ -98,17 +80,4 @@ Made with 💖 by [**Yaswanth Ram Balaji**](https://github.com/yaswanth-ram-bala
 
 > If you like this project, consider ⭐ starring the repo to support the work!
 
-````
 
----
-
-### 📌 What to Do Next:
-
-1. In VS Code, create a file named `README.md`  
-2. Paste the content above into it  
-3. Then push to GitHub:
-
-
-git add README.md
-git commit -m "Add stylish and detailed README for To-Do App"
-git push
